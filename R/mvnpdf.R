@@ -1,7 +1,7 @@
           
 #' Titre 
 #'
-#' Description de la fonction. Test git.
+#' Description de la fonction. 
 #'
 #' Détails de la fonction.
 #'
