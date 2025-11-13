@@ -1,11 +1,11 @@
-# MVNPDF
+# MVNPDFSMART
 
-Description de la fonction.
+Version améliorée de mvnpdf.
 
 ## Usage
 
 ``` r
-mvnpdf(x, mean = rep(0, nrow(x)), varcovM = diag(nrow(x)), Log = TRUE)
+mvnpdfsmart(x, mean = rep(0, nrow(x)), varcovM = diag(nrow(x)), Log = TRUE)
 ```
 
 ## Arguments
@@ -31,10 +31,6 @@ mvnpdf(x, mean = rep(0, nrow(x)), varcovM = diag(nrow(x)), Log = TRUE)
 Returns a list containing the matrix x, and a vector of length n of the
 multivariate normal distribution density values at those points
 (eventually in log-scale).
-
-## Details
-
-Détails de la fonction.
 
 ## Examples
 
