@@ -8,6 +8,8 @@
   : MVNPDF_INVC
 - [`mvnpdfsmart()`](https://loucami.github.io/mypkgr/reference/mvnpdfsmart.md)
   : MVNPDFSMART
+- [`mvnpdfsmart_par()`](https://loucami.github.io/mypkgr/reference/mvnpdfsmart_par.md)
+  : MVNPDFSMART Parallel
 - [`plot(`*`<mvnpdf>`*`)`](https://loucami.github.io/mypkgr/reference/plot.mvnpdf.md)
   : Plot of the mvnpdf function
 - [`plot(`*`<mvnpdf_invC>`*`)`](https://loucami.github.io/mypkgr/reference/plot.mvnpdf_invC.md)
