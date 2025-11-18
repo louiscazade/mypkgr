@@ -4,7 +4,7 @@
 \name{mypkgr-package}
 \alias{mypkgr}
 \alias{mypkgr-package}
-\title{mypkgr: What the Package Does (One Line, Title Case)}
+\title{mypkgr: Example of how to use a package}
 \description{
 What the package does (one paragraph).
 }
