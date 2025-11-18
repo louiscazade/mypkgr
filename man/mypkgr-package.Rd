@@ -11,9 +11,9 @@ What the package does (one paragraph).
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/Loucami/mypkgr}
-  \item \url{https://loucami.github.io/mypkgr/}
-  \item Report bugs at \url{https://github.com/Loucami/mypkgr/issues}
+  \item \url{https://github.com/louiscazade/mypkgr}
+  \item \url{https://louiscazade.github.io/mypkgr/}
+  \item Report bugs at \url{https://github.com/louiscazade/mypkgr/issues}
 }
 
 }
